@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="welcome_to_description">Welcome to Android</string>
+    <string name="label_gender">Gender:</string>
+    <string name="title_activity_greetings">GreetingsActivity</string>
+    <string name="course_welcome">You are welcomed to the Android Development Crash Course</string>
+</resources>
